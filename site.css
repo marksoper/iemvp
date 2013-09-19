@@ -24,7 +24,7 @@ div {
 
 .sidebar {
   float: left;
-  width: 25%;
+  width: 28%;
 }
 
 .main {
@@ -36,4 +36,8 @@ div {
   text-align: center;
   max-width: 200px;
   display: inline;
+}
+
+.passport .header h2 {
+  font-size: 100%;
 }
