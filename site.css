@@ -24,7 +24,11 @@ div {
 
 .sidebar {
   float: left;
+<<<<<<< HEAD
   width: 25%;
+=======
+  width: 28%;
+>>>>>>> gh-pages
 }
 
 .main {
@@ -37,3 +41,10 @@ div {
   max-width: 200px;
   display: inline;
 }
+<<<<<<< HEAD
+=======
+
+.passport .header h2 {
+  font-size: 100%;
+}
+>>>>>>> gh-pages
